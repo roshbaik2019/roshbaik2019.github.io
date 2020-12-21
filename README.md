@@ -1,4 +1,4 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/theme/new-age/)
+# [surhds](https://surhds.com)
 
 [New Age](https://startbootstrap.com/theme/new-age/) is a web app landing page theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -23,7 +23,7 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/new-age/)
 * Install via npm: `npm i startbootstrap-new-age`
 * Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-new-age.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-new-age)
+* [Fork, Clone, or Download on GitHub](https://surhds.com)
 
 ## Usage
 
@@ -60,7 +60,7 @@ Start Bootstrap was created by and is maintained by **[David Miller](https://dav
 
 * <https://davidmiller.io>
 * <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+* <https://surhds.com>
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
